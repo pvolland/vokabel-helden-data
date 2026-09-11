@@ -1,0 +1,44 @@
+{
+  "rootFolders": [
+    {
+      "folderName": "deutsch-englisch",
+      "id": "9b8372f1-d67f-450b-83c6-544dc7f96cc6",
+      "lessons": [],
+      "name": "Deutsch-Englisch",
+      "subfolders": [
+        {
+          "folderName": "klasse5",
+          "id": "07646e6c-bd22-45af-9d39-77527a22e274",
+          "lessons": [],
+          "name": "Klasse 5",
+          "subfolders": [
+            {
+              "folderName": "access1",
+              "id": "3d73fb84-8b89-4591-9cd0-cbbac5137cb3",
+              "lessons": [
+                {
+                  "fileName": "welcome_12-15.json",
+                  "id": "ce8d809d-9f1e-4299-a9d9-dccca5f88be6",
+                  "name": "Welcome 12-15"
+                },
+                {
+                  "fileName": "welcome_9-11.json",
+                  "id": "aa36d5ac-dd28-40ce-b864-71ebb38b2d42",
+                  "name": "Welcome 9-11"
+                },
+                {
+                  "fileName": "welcome_8.json",
+                  "id": "e62d8cd6-5b79-4e6f-aa3d-c9449d3cf45f",
+                  "name": "Welcome 8"
+                }
+              ],
+              "name": "Access 1",
+              "subfolders": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "version": 1
+}
