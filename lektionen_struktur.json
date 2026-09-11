@@ -1,0 +1,64 @@
+{
+  "rootFolders": [
+    {
+      "folderName": "deutsch-englisch",
+      "id": "9b8372f1-d67f-450b-83c6-544dc7f96cc6",
+      "lessons": [],
+      "name": "Deutsch-Englisch",
+      "subfolders": [
+        {
+          "folderName": "klasse5",
+          "id": "07646e6c-bd22-45af-9d39-77527a22e274",
+          "lessons": [],
+          "name": "Klasse 5",
+          "subfolders": [
+            {
+              "folderName": "access",
+              "id": "3d73fb84-8b89-4591-9cd0-cbbac5137cb3",
+              "lessons": [
+                {
+                  "fileName": "welcome1.json",
+                  "id": "d2817807-797e-41e3-ac6d-d252b49e2287",
+                  "name": "Welcome 1"
+                }
+              ],
+              "name": "Access",
+              "subfolders": []
+            }
+          ]
+        },
+        {
+          "folderName": "klasse_6",
+          "id": "1d0bd70d-92f2-4758-ab6e-6605ba0e2776",
+          "lessons": [],
+          "name": "Klasse 6",
+          "subfolders": [
+            {
+              "folderName": "access",
+              "id": "c794d521-8f86-4574-b8b9-378f27aafe21",
+              "lessons": [],
+              "name": "Access",
+              "subfolders": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "folderName": "",
+      "id": "b9993a12-0d1d-496b-9e36-e9d869a65400",
+      "lessons": [],
+      "name": "Klasse 6",
+      "subfolders": [
+        {
+          "folderName": "deutsch-spanisch",
+          "id": "c2b44e50-d463-42fc-a7f7-0b04a2bb57e1",
+          "lessons": [],
+          "name": "Deutsch-Spanisch",
+          "subfolders": []
+        }
+      ]
+    }
+  ],
+  "version": 1
+}
