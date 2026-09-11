@@ -1,0 +1,479 @@
+{
+  "groupName": "Access 1",
+  "items": [
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "school",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "die",
+      "germanWord": "Schule"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "new",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "neu"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "I\u0027m new at Varndean.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Ich bin neu in Varndean."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "I\u0027m in Year 7.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Ich bin in der siebten Klasse."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "That\u0027s a nice name.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Das ist ein schöner Name."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "Can you spell it, please?",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Kannst du ihn bitte buchstabieren?"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "The uniform is awesome.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Die Schuluniform ist klasse/ großartig."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "class",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "die",
+      "germanWord": "(Schul-)Klasse"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "Let me show you Brighton.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Lass mich dir Brighton zeigen."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "to",
+      "englishWord": "show",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "zeigen"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "Let me show you our classroom.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Lass(t) mich dir (euch) unser Klassenzimmer zeigen."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "I - you - he - she - it - we - you - they",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "ich - du - er - sie - es - wir - ihr - sie"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "our family is big",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "unsere Familie ist groß"
+    },
+    {
+      "englishAlternativesJson": "[{\"prefix\":\"\",\"word\":\"families\"}]",
+      "englishPrefix": "",
+      "englishWord": "family",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"Familien\"}]",
+      "germanPrefix": "die",
+      "germanWord": "Familie"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "Let us sing.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Lass(t) uns singen."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "blazer",
+      "germanAlternativesJson": "[{\"prefix\":\"die\",\"word\":\"Sportjacke\"}]",
+      "germanPrefix": "der",
+      "germanWord": "Blazer"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "tie",
+      "germanAlternativesJson": "[{\"prefix\":\"die\",\"word\":\"Krawatte\"}]",
+      "germanPrefix": "der",
+      "germanWord": "Schlips"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "thing",
+      "germanAlternativesJson": "[{\"prefix\":\"das\",\"word\":\"Ding\"}]",
+      "germanPrefix": "die",
+      "germanWord": "Sache"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "to",
+      "englishWord": "know",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "wissen"
+    },
+    {
+      "englishAlternativesJson": "[{\"prefix\":\"\",\"word\":\"Thank you.\"}]",
+      "englishPrefix": "",
+      "englishWord": "Thanks.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Danke."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "Zane is with Sunita and Alice.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Zane ist bei Sunita und Alice."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "with two dots",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "mit zwei Punkten/ Pünktchen"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "double a",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Doppel \"a\""
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "We go to school on Monday.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Wir gehen zur Schule am Montag."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "We sing a song on Tuesday.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Wir singen ein Lied am Dienstag."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "We speak French on Wednesday.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Wir sprechen Französisch am Mittwoch."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "We read a book on Thursday.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Wir lesen ein Buch am Donnerstag."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "We watch a film on Friday.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Wir schauen uns einen Film am Freitag an."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "But on Saturday we don\u0027t have school.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Aber am Samstag haben wir keine Schule."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "I\u0027m Mr Lee.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Ich bin Herr Lee."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "I teach art and history.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Ich unterrichte Kunst und Geschichte."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "I\u0027m your class teacher too.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Ich bin auch euer Klassenlehrer."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "What are your names?",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Wie heißt ihr?"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "Mr Thielecke is our German teacher.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Herr Thielecke ist unser Deutschlehrer."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "poem",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "das",
+      "germanWord": "Gedicht"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "the",
+      "englishWord": "days of the week",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "die",
+      "germanWord": "Wochentage"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "on Monday",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "am Montag"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "on Mondays",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"an Montagen\"}]",
+      "germanPrefix": "",
+      "germanWord": "montags"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "book",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "das",
+      "germanWord": "Buch"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "song",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "das",
+      "germanWord": "Lied"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "I go to school.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Ich gehe zur Schule."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "Can you speak French?",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Kannst du/ Könnt ihr/ Können Sie Französisch sprechen?"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "board",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "die",
+      "germanWord": "(Wand-)Tafel"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "chair",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "der",
+      "germanWord": "Stuhl"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "desk",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "der",
+      "germanWord": "Schreibtisch"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "exercise book",
+      "germanAlternativesJson": "[{\"prefix\":\"das\",\"word\":\"Übungsheft\"}]",
+      "germanPrefix": "das",
+      "germanWord": "Schulheft"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "pencil case",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "das",
+      "germanWord": "Federmäppchen"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "pencil",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "der",
+      "germanWord": "Bleistift"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "schoolbag",
+      "germanAlternativesJson": "[{\"prefix\":\"der\",\"word\":\"Schulranzen\"}]",
+      "germanPrefix": "die",
+      "germanWord": "Schultasche"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "student",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"Student/in\"}]",
+      "germanPrefix": "",
+      "germanWord": "Schüler/in"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "marker",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Textmarker"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "pen",
+      "germanAlternativesJson": "[{\"prefix\":\"der\",\"word\":\"Stift\"},{\"prefix\":\"der\",\"word\":\"Füller\"}]",
+      "germanPrefix": "der",
+      "germanWord": "Kugelschreiber"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "rubber",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "das",
+      "germanWord": "Radiergummi"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "ruler",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "das",
+      "germanWord": "Lineal"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "sharpener",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "der",
+      "germanWord": "Anspitzer"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "There is no school on Sundays.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Es gibt keine Schule am Sonntag."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "problem",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "das",
+      "germanWord": "Problem"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "Here you are.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Hier, bitte(schön)."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "Let\u0027s sit together.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Lass uns zusammensitzen."
+    }
+  ],
+  "name": "Welcome 12-15",
+  "schemaVersion": 1
+}

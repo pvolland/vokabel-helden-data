@@ -1,0 +1,407 @@
+{
+  "groupName": "Access 1",
+  "items": [
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "hometown",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "die",
+      "germanWord": "Heimatstadt"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "town",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "die",
+      "germanWord": "Stadt"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "hello",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"Guten Tag.\"}]",
+      "germanPrefix": "",
+      "germanWord": "Hallo."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "today",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "heute"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "How are you?",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"Wie geht es dir/ euch/ Ihnen?\"}]",
+      "germanPrefix": "",
+      "germanWord": "Wie geht\u0027s?"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "I\u0027m fine(, thanks).",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Gut(, danke)."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "I live in Brighton.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Ich wohne/ lebe in Brighton."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "can",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "können"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "to",
+      "englishWord": "fly",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "fliegen"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "a",
+      "englishWord": "tour of Brighton",
+      "germanAlternativesJson": "[{\"prefix\":\"eine\",\"word\":\"Rundfahrt\"},{\"prefix\":\"eine\",\"word\":\"Reise durch Brighton\"}]",
+      "germanPrefix": "ein",
+      "germanWord": "Rundgang"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "Germany",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Deutschland"
+    },
+    {
+      "englishAlternativesJson": "[{\"prefix\":\"\",\"word\":\"Goodbye.\"}]",
+      "englishPrefix": "",
+      "englishWord": "Bye.",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"Auf Wiedersehen.\"}]",
+      "germanPrefix": "",
+      "germanWord": "Tschüß."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "garden",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "der",
+      "germanWord": "Garten"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "palace",
+      "germanAlternativesJson": "[{\"prefix\":\"das\",\"word\":\"Schloss\"}]",
+      "germanPrefix": "der",
+      "germanWord": "Palast"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "the",
+      "englishWord": "gardens are great",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "die",
+      "germanWord": "Gärten sind großartig"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "park",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "der",
+      "germanWord": "Park"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "game",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "das",
+      "germanWord": "Spiel"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "bag",
+      "germanAlternativesJson": "[{\"prefix\":\"der\",\"word\":\"Beutel\"},{\"prefix\":\"die\",\"word\":\"Tüte\"}]",
+      "germanPrefix": "die",
+      "germanWord": "Tasche"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "ball",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "der",
+      "germanWord": "Ball"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "balloon",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "der",
+      "germanWord": "Luftballon"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "bee",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "die",
+      "germanWord": "Biene"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "bike",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "das",
+      "germanWord": "Fahrrad"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "dog",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "der",
+      "germanWord": "Hund"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "grass",
+      "germanAlternativesJson": "[{\"prefix\":\"der\",\"word\":\"Rasen\"}]",
+      "germanPrefix": "das",
+      "germanWord": "Gras"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "flower",
+      "germanAlternativesJson": "[{\"prefix\":\"die\",\"word\":\"Blüte\"}]",
+      "germanPrefix": "die",
+      "germanWord": "Blume"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "sandwich",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"(zusammengeklapptes) belegtes Brot\"}]",
+      "germanPrefix": "das",
+      "germanWord": "Sandwich"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "tree",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "der",
+      "germanWord": "Baum"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "something",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "etwas"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "No, that\u0027s wrong.",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"Das stimmt nicht.\"}]",
+      "germanPrefix": "",
+      "germanWord": "Nein, das ist falsch."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "Yes, that\u0027s right.",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"Ja, das stimmt.\"}]",
+      "germanPrefix": "",
+      "germanWord": "Ja, das ist richtig."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "now",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"jetzt\"}]",
+      "germanPrefix": "",
+      "germanWord": "nun"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "It\u0027s your turn.",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"an der Reihe\"}]",
+      "germanPrefix": "",
+      "germanWord": "Du bist dran"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "your",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"euer/ eure\"},{\"prefix\":\"\",\"word\":\"Ihr/e\"}]",
+      "germanPrefix": "",
+      "germanWord": "dein/e"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "to",
+      "englishWord": "spell",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "buchstabieren"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "to",
+      "englishWord": "find",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "finden"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "banana",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "die",
+      "germanWord": "Banane"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "to",
+      "englishWord": "have",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "haben"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "wrong",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"verkehrt\"}]",
+      "germanPrefix": "",
+      "germanWord": "falsch"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "colour",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "die",
+      "germanWord": "Farbe"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "red",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "rot"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "yellow",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "gelb"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "blue",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "blau"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "green",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "grün"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "brown",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "braun"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "orange",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "orange"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "grey",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "grau"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "pink",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "rosa"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "purple",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"violett\"}]",
+      "germanPrefix": "",
+      "germanWord": "lila"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "white",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "weiß"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "black",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "schwarz"
+    }
+  ],
+  "name": "Welcome 9-11",
+  "schemaVersion": 1
+}
