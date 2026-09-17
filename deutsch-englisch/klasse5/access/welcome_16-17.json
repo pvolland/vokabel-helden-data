@@ -1,0 +1,255 @@
+{
+  "groupName": "Deutsch-Englisch \u003e Klasse 5 \u003e Access 1",
+  "items": [
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "the",
+      "englishWord": "world of pets and hobbies",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "die",
+      "germanWord": "Welt der Haustiere und Hobbys"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "pet",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "das",
+      "germanWord": "Haustier"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "cute",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"niedlich\"}]",
+      "germanPrefix": "",
+      "germanWord": "süß"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "scary",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"gruselig\"}]",
+      "germanPrefix": "",
+      "germanWord": "unheimlich"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "boring",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "langweilig"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "budgie",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "der",
+      "germanWord": "Wellensittich"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "cat",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "die",
+      "germanWord": "Katze"
+    },
+    {
+      "englishAlternativesJson": "[{\"prefix\":\"\",\"word\":\"two fish\"}]",
+      "englishPrefix": "",
+      "englishWord": "fish",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"zwei Fische\"}]",
+      "germanPrefix": "der",
+      "germanWord": "Fisch"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "guinea pig",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Meerschweinchen"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "parrot",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "der",
+      "germanWord": "Papagei"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "rabbit",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "das",
+      "germanWord": "Kaninchen"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "rat",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "die",
+      "germanWord": "Ratte"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "snake",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "die",
+      "germanWord": "Schlange"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "spider",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "die",
+      "germanWord": "Spinne"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "Where is my bag? - Under my chair.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Wo ist meine Tasche? - Unter meinem Stuhl."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "I like dogs and cats but I don\u0027t like rats and snakes.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Ich mag Hunde und Katzen, aber ich mag Ratten und Schlangen nicht."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "more",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "mehr"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "animal",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "das",
+      "germanWord": "Tier"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "My hobby is football.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Mein Hobby ist Fußball."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "My hobbies are running and dancing.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Meine Hobbys sind Laufen und Tanzen."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "What about you?",
+      "germanAlternativesJson": "[{\"prefix\":\"\",\"word\":\"Und was ist mit dir/ euch?\"}]",
+      "germanPrefix": "",
+      "germanWord": "Und du/ ihr?"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "to",
+      "englishWord": "run",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "laufen"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "to",
+      "englishWord": "swim",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "schwimmen"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "to",
+      "englishWord": "dance",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "tanzen"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "music",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "die",
+      "germanWord": "Musik"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "if you need them",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "wenn du sie brauchst/ benötigst"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "I like reading, cooking and taking photos.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Ich mag lesen, kochen, Fotos machen."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "I like films and gaming.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Ich mag Filme und Gaming."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "I play the piano, the drums, the violin, tennis and board games.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Ich spiele Klavier, Schlagzeug, Geige, Tennis, Brettspiele."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "I do yoga, judo, karate, drama and ballet.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Ich mache Yoga, Judo, Karate, Theaterspielen und Ballett."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "I go swimming, horse riding, skiing, climbing and cycling.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Ich gehe schwimmen, reiten, Ski fahren, klettern und Rad fahren."
+    }
+  ],
+  "name": "Welcome 16-17",
+  "schemaVersion": 1
+}
