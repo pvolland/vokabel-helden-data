@@ -1,0 +1,311 @@
+{
+  "groupName": "Deutsch-Englisch \u003e Klasse 5 \u003e Access 1",
+  "items": [
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "an",
+      "englishWord": "hour",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "eine",
+      "germanWord": "Stunde"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "why?",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "warum?"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "room",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Zimmer"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "downstairs",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "unten"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "upstairs",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "oben"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "their names",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "ihre Namen"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "your names",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "eure Namen"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "our names",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "unsere Namen"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "its name",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "sein/ihr Name (Fisch, Katze, Kaninchen, Tiere die du nicht genauer kennst)"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "her name",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "ihr Name"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "his name",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "sein Name"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "your name",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "dein Name"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "my name",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "mein Name"
+    },
+    {
+      "englishAlternativesJson": "[{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"they are\"}]",
+      "englishPrefix": "",
+      "englishWord": "they\u0027re",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "sie sind (they are)"
+    },
+    {
+      "englishAlternativesJson": "[{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"you are\"}]",
+      "englishPrefix": "",
+      "englishWord": "you\u0027re",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "ihr seid (ihr seid)"
+    },
+    {
+      "englishAlternativesJson": "[{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"we are\"}]",
+      "englishPrefix": "",
+      "englishWord": "we\u0027re",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "wir sind (we are)"
+    },
+    {
+      "englishAlternativesJson": "[{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"he/ she/ it is\"}]",
+      "englishPrefix": "",
+      "englishWord": "he/ she/ it\u0027s",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "er/ sie/ es ist (er/ sie/ es ist)"
+    },
+    {
+      "englishAlternativesJson": "[{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"you\\u0027re\"}]",
+      "englishPrefix": "",
+      "englishWord": "you are",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "du bist (du bist)"
+    },
+    {
+      "englishAlternativesJson": "[{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"I am\"}]",
+      "englishPrefix": "",
+      "englishWord": "I\u0027m",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "ich bin (ich bin)"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "so",
+      "germanAlternativesJson": "[{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"deshalb\"},{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"daher\"}]",
+      "germanPrefix": "",
+      "germanWord": "also"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "to",
+      "englishWord": "come",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "kommen"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "mum",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Mama"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "dad",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Papa"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "maybe",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "vielleicht"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "bell",
+      "germanAlternativesJson": "[{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"Klingel\"}]",
+      "germanPrefix": "",
+      "germanWord": "Glocke"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "doorbell",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Türklingel"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "morning",
+      "germanAlternativesJson": "[{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"Vormittag\"}]",
+      "germanPrefix": "",
+      "germanWord": "Morgen"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "postman",
+      "germanAlternativesJson": "[{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"Briefträger\"}]",
+      "germanPrefix": "",
+      "germanWord": "Postbote"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "lots of",
+      "germanAlternativesJson": "[{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"viele\"}]",
+      "germanPrefix": "",
+      "germanWord": "viel von"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "a",
+      "englishWord": "lot of",
+      "germanAlternativesJson": "[{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"viele\"}]",
+      "germanPrefix": "",
+      "germanWord": "viel von"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "house",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Haus"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "car",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Auto"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "road",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Strasse"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "it ( the fish, the cat, the rabbit)",
+      "germanAlternativesJson": "[{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"sie\"},{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"es\"}]",
+      "germanPrefix": "",
+      "germanWord": "er"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "It\u0027s called Garville Road.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Sie heißt Garville Road."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "This is my street.",
+      "germanAlternativesJson": "[]",
+      "germanPrefix": "",
+      "germanWord": "Das ist meine Straße."
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "",
+      "englishWord": "everyone",
+      "germanAlternativesJson": "[{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"alle\"}]",
+      "germanPrefix": "",
+      "germanWord": "jeder"
+    },
+    {
+      "englishAlternativesJson": "[]",
+      "englishPrefix": "at",
+      "englishWord": "home",
+      "germanAlternativesJson": "[{\"isPrimary\":false,\"prefix\":\"\",\"text\":\"\",\"word\":\"daheim\"}]",
+      "germanPrefix": "zu",
+      "germanWord": "Hause"
+    }
+  ],
+  "name": "Unit 1 pp.22-24 Teil 1",
+  "schemaVersion": 1
+}
